@@ -26,3 +26,5 @@ Já criei mods para
 - [ MTA ] Mods para esse jogo utiliza <img align="center" style="padding-left: 6px" alt="java" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img align="center" style="padding-left: 6px" alt="java" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
