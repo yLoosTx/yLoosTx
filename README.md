@@ -17,11 +17,11 @@ Criador de mods para jogos e desenvolvedor Web
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
-##Apaixonado por tecnologia, desde 2017 quando tive que aprender o basico de Java para criar meu primeiro servidor de Minecraft.
+Apaixonado por tecnologia, desde 2017 quando tive que aprender o basico de Java para criar meu primeiro servidor de Minecraft.
 
 <div>
 
-###Já criei mods para
+Já criei mods para
 - [ Minecraft ] Mods para esse jogo utiliza <img align="center" style="padding-left: 6px" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 - [ MTA ] Mods para esse jogo utiliza <img align="center" style="padding-left: 6px" alt="java" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img align="center" style="padding-left: 6px" alt="java" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
